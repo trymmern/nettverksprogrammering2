@@ -1,0 +1,11 @@
+D:\Programs\CSharpProjects\Oving3Tcp\Client\bin\Debug\netcoreapp2.2\Client.deps.json
+D:\Programs\CSharpProjects\Oving3Tcp\Client\bin\Debug\netcoreapp2.2\Client.runtimeconfig.json
+D:\Programs\CSharpProjects\Oving3Tcp\Client\bin\Debug\netcoreapp2.2\Client.runtimeconfig.dev.json
+D:\Programs\CSharpProjects\Oving3Tcp\Client\bin\Debug\netcoreapp2.2\Client.dll
+D:\Programs\CSharpProjects\Oving3Tcp\Client\bin\Debug\netcoreapp2.2\Client.pdb
+D:\Programs\CSharpProjects\Oving3Tcp\Client\obj\Debug\netcoreapp2.2\Client.csprojAssemblyReference.cache
+D:\Programs\CSharpProjects\Oving3Tcp\Client\obj\Debug\netcoreapp2.2\Client.csproj.CoreCompileInputs.cache
+D:\Programs\CSharpProjects\Oving3Tcp\Client\obj\Debug\netcoreapp2.2\Client.AssemblyInfoInputs.cache
+D:\Programs\CSharpProjects\Oving3Tcp\Client\obj\Debug\netcoreapp2.2\Client.AssemblyInfo.cs
+D:\Programs\CSharpProjects\Oving3Tcp\Client\obj\Debug\netcoreapp2.2\Client.dll
+D:\Programs\CSharpProjects\Oving3Tcp\Client\obj\Debug\netcoreapp2.2\Client.pdb
